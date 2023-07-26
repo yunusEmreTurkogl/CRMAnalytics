@@ -1,9 +1,9 @@
 # CRMAnalytics
 Customer Lifetime Value Prediction
-WHAT ARE THE CRM ANALYTICS? 
+
 CRM analytics (Customer Relationship Management analytics) is a set of tools and techniques used to analyze customer data collected through CRM systems. CRM analytics is a type of business analytics that focuses on customer data, allowing businesses to gain insights into customer behavior, preferences, and needs. This information can then be used to improve customer satisfaction, increase customer loyalty, and ultimately increase revenue.
 
-Some examples of CRM analytics include:
+
 
 Customer Segmentation: Dividing customers into groups based on similar characteristics, such as demographics, buying patterns, or interests. This can help businesses tailor their marketing efforts to each group's unique needs and preferences.
 
